@@ -1,0 +1,16 @@
+[
+  {
+    "PatientId": 1,
+    "FullName": "chandru",
+    "Age": 21,
+    "PhoneNumber": "883827685",
+    "Email": ""
+  },
+  {
+    "PatientId": 2,
+    "FullName": "rafiq",
+    "Age": 23,
+    "PhoneNumber": "8838278675",
+    "Email": ""
+  }
+]
